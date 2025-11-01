@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: MonkPanel
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":43.92867,"y":252.7694},"zoom":0.9181467,"elements":[{"chainable":false,"member":{"name":"text","parameterTypes":null,"targetType":"TMPro.TextMeshProUGUI","targetTypeName":"TMPro.TextMeshProUGUI","$version":"A"},"defaultValues":{"target":null,"input":{"$content":"","$type":"System.String"}},"position":{"x":366.0,"y":82.0},"guid":"d155fda5-1c87-4da0-9bd7-cf11c9ae4d28","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"9"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"MonkName","$type":"System.String"}},"position":{"x":61.0,"y":207.0},"guid":"a79dd652-79f8-4d16-8185-a448b8577172","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"12"},{"argumentCount":1,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"ChangeName","$type":"System.String"}},"position":{"x":-210.0,"y":75.0},"guid":"3dc9dc22-5376-4488-9d81-a31c28e2bb4a","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"14"},{"sourceUnit":{"$ref":"14"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"assign","guid":"5be2b224-ae70-448c-833b-464a0ec8b1f4","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"value","destinationUnit":{"$ref":"9"},"destinationKey":"target","guid":"635587fc-c7e7-480a-9ff1-0c7c6555a76a","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"argument_0","destinationUnit":{"$ref":"9"},"destinationKey":"input","guid":"f139a052-a476-4469-b2b3-62cc8ebaddc3","$type":"Unity.VisualScripting.ValueConnection"},{"position":{"xMin":-252.6666,"yMin":-12.33329,"xMax":560.6666,"yMax":442.6668},"label":"StatsControl","comment":null,"color":{"r":0.8039216,"g":0.0,"b":1.0,"a":1.0},"guid":"5a172b7a-524a-4496-914f-fae5d923d20c","$version":"A","$type":"Unity.VisualScripting.GraphGroup"},{"position":{"xMin":-249.0,"yMin":-123.0,"xMax":-2.0,"yMax":-23.0},"title":"Leyenda","body":"Violeta
+      - UI - CD00FF","colorTheme":"Teal","guid":"bde121b2-522b-48eb-a059-4354c2ac7049","$type":"Unity.VisualScripting.StickyNote"}],"$version":"A"}}'
+    _objectReferences: []
