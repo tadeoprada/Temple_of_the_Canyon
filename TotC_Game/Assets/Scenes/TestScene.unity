@@ -12641,18 +12641,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4201930061339124883, guid: 92863542d7b6ee947a39eae7a3d890a1, type: 3}
-      propertyPath: _data._objectReferences.Array.data[0]
-      value: 
-      objectReference: {fileID: 555996895}
-    - target: {fileID: 4368244961094066923, guid: 92863542d7b6ee947a39eae7a3d890a1, type: 3}
-      propertyPath: _data._json
-      value: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 4368244961094066923, guid: 92863542d7b6ee947a39eae7a3d890a1, type: 3}
-      propertyPath: _data._objectReferences.Array.size
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7423947421683782740, guid: 92863542d7b6ee947a39eae7a3d890a1, type: 3}
       propertyPath: m_Name
       value: Yang
