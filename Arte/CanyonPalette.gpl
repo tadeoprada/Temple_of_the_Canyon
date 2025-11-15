@@ -1,0 +1,15 @@
+GIMP Palette
+Name: CanyonPalette
+Columns: 8
+#
+# Paleta personalizada con 9 colores
+#
+222   201 148 Color1
+225   181 118 Color2
+238   180 145 Color3
+211   155 118 Color4
+222   146 94  Color5
+216   143 102 Color6
+183   101 79  Color7
+143   67  54  Color8
+134   61  55  Color9
