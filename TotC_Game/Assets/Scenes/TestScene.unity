@@ -12103,7 +12103,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2454719805016453601, guid: 92863542d7b6ee947a39eae7a3d890a1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 2454719805016453601, guid: 92863542d7b6ee947a39eae7a3d890a1, type: 3}
       propertyPath: m_LocalPosition.y
